@@ -1,7 +1,7 @@
 # Summary
 
 * [Part I](section1/README.md)
-  * [Features](section1/features.md)
+  * [特征](section1/features.md)
   * [GitBook is nice](section1/gitbook.md)
 * [Part II](section2/README.md)
   * [We love feedback](section2/feedback_please.md)
