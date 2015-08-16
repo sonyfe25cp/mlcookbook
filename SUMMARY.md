@@ -1,8 +1,9 @@
 # Summary
 
-* [Part I](section1/README.md)
+* [机器学习基础](section1/README.md)
   * [特征](section1/features.md)
   * [GitBook is nice](section1/gitbook.md)
-* [Part II](section2/README.md)
-  * [We love feedback](section2/feedback_please.md)
-  * [Better tools for authors](section2/better_tools.md)
+* [Spark配置](section2/README.md)
+  * [Spark下载与安装](section2/feedback_please.md)
+  * [Intellij Idea下Spark的配置](section2/better_tools.md)
+
