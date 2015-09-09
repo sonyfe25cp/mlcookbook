@@ -62,4 +62,3 @@ MLlib中提供了StandardScaler和Normalizer进行正则化。
 * Java：OpenNLP
 * Python：scikit-learn，gensim，scikit-image，matplotlib和NLTK
 * Scala：Breeze和Chalk
-
