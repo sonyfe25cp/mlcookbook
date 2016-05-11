@@ -3,13 +3,7 @@
 
 ###Bayesian Optimization of Text Representations
 
-###Component-Enhanced Chinese Character Embeddings
-
 ###Detecting Risks in the Banking System by Sentiment Analysis
-
-###Evaluation methods for unsupervised word embeddings
-
-###Long Short-Term Memory Neural Networks for Chinese Word Segmentation
 
 ###Towards the Extraction of Customer to Customer Suggestions in Reviews
 
@@ -21,6 +15,30 @@
 
 ###A quantitative analysis of gender differences in movies using psycholinguistic normatives
 
+##Word Embeddings
+
+###Evaluation methods for unsupervised word embeddings
+
+###Component-Enhanced Chinese Character Embeddings
+
+##LSTM Related
+
+###Long Short-Term Memory Neural Networks for Chinese Word Segmentation
+
+###Multi-Timescale Long Short-Term Memory Neural Network for Modelling Sentences and Documents
+
+###Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings
+
+###Chinese Semantic Role Labeling with Bidirectional Recurrent Neural Networks
+
+###GhostWriter: Using an LSTM for Automatic Rap Lyric Generation
+
+##Attention Related
+
+###Effective Approaches to Attention-based Neural Machine Translation
+
+
+###Not All Contexts Are Created Equal: Better Word Representations with Variable Attention
 
 
 
